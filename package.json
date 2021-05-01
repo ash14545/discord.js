@@ -1,0 +1,17 @@
+{
+  "name": "discord.js",
+  "version": "1.0.0",
+  "description": "A multipurpose discord.js bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Russ",
+  "license": "ISC"
+}
